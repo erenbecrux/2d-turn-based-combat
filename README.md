@@ -1,7 +1,6 @@
-Pokemon-like turn based combat scene
+Pokemon-like turn-based combat scene
 
-
-In the main scene Player can move on water to begin fight scene.
+In the main scene, the Player can move on the water to begin the fight scene.
 
 Fight scene codes are in the following script:
 .../Assets/Scripts/BattleSystem.cs
